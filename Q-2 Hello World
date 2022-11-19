@@ -1,0 +1,35 @@
+Problem Description
+Print the following text in the output:
+Hello
+World !
+
+
+Output Format
+Print the required text in the output.
+
+
+Example Output
+Hello
+World !
+
+Note - There is an empty line between Hello and World !
+
+
+
+
+
+
+
+Solutions:  
+
+
+import java.lang.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("");
+        System.out.println("World !");
+    }
+}
