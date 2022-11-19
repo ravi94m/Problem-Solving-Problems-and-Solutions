@@ -1,0 +1,37 @@
+Problem Description
+Print the text
+
+Hello
+World !
+
+
+Output Format
+Print in the output
+
+Hello
+World !
+
+
+Example Output
+Hello
+World !
+
+
+
+Solutions: 
+
+
+
+import java.lang.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+       System.out.println("Hello");
+       System.out.println("World !");
+        
+    }
+}
+
+
+
